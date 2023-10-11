@@ -25,17 +25,7 @@ The project use the node_modules, javascript.jsx and javascript.js, react, html 
 ## Installation
 
 ### `npm install`
-### `npm install json-server react-icons react-router-dom uuid`
-### `npm install react-icons`
-### `npm install react-icons/fa`
-### `npm install react-router-dom@latest`
 ### `npm run start`
-and in other terminal run:
-### `npm run backend`
-
-### IMPORTANT ###
-RUN THE `NPM RUN BACKEND` BEFORE AND OPEN THE LINKS THAT SHOW IN IT
-AFTER THAT RUN THE `NPM RUN START` AND OPEN THE LINK THAT HE CREATED!
 
 ## Referência
 - [Youtube] - APRENDA REACT EM 2 HORAS - CRIE SEU PRIMEIRO PROJETO EM REACT | Matheus Battisti - Hora de Codar - (https://www.youtube.com/watch?v=pOVyVivyfok&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO&index=42)
